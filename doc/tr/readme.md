@@ -37,13 +37,18 @@ Katman aktif hale geldiğinde, aşağıdaki tuşlardan birine basın:
 | Tuş | İşlev | Açıklama |
 | :---: | :--- | :--- |
 | **S** | **Başlat / Durdur** | Sesle yazma için mikrofonu açar veya kapatır. |
-| **A** | **Yapay Zekayı Aç/Kapat** | Akıllı YZ Modu ve Çevrimdışı Mod arasında geçiş yapar. |
-| **P** | **Noktalama** | Söylenen Noktalamayı açar veya kapatır (Çevrimdışı Modda çalışır). |
+| **R** | **Akıllı Metin İyileştirici** | Seçili metni iyileştirir veya çevirir. |
+| **C** | **Bağlam Ayarla** | Akıllı yanıt için bağlam belirler. |
+| **G** | **Akıllı Yanıt Oluştur** | İpuçlarından veya bağlamdan akıllı yanıt üretir. |
+| **A** | **Yapay Zekayı Aç/Kapat** | Yapay zeka işleme modunu etkinleştirir/devre dışı bırakır. |
 | **T** | **Çeviri** | Hedef dile çeviriyi etkinleştirir/devre dışı bırakır. |
 | **E** | **Emoji Modu** | Otomatik emoji eklemeyi etkinleştirir/devre dışı bırakır. |
-| **M** | **Model Değiştir** | YZ modellerini değiştirir (GPT-5.1, Gemini Pro, Özel). |
-| **I** | **Giriş Dili** | Konuşma dilinizi değiştirir (ör. Türkçe, İngilizce). |
+| **I** | **Giriş Dili** | Konuşma dilinizi değiştirir. |
 | **L** | **Hedef Dil** | Çeviri dilini değiştirir. |
+| **M** | **Model Değiştir** | YZ modellerini değiştirir (GPT-5.4 Mini, GPT-5.1, Özel API). |
+| **W** | **Yazım Stili** | İstenilen yazım stilini (tonu) değiştirir. |
+| **Q** | **Durumu Kontrol Et** | Mevcut ayarlarınızı okur. |
+| **B** | **Son Metni Kurtar** | Yazılan son metni kurtarır (Yedekleme). |
 | **H** | **Yardım** | Bu belgelendirme penceresini açar. |
 | **D** | **Geliştirici** | Geliştirici hakkında bilgi gösterir. |
 
