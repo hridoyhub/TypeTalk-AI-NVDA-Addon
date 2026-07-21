@@ -1,0 +1,357 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TypeTalk AI 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-21 00:00+0000\n"
+"PO-Revision-Date: 2026-07-21 00:00+0000\n"
+"Last-Translator: Antigravity <antigravity@gemini.local>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "AI & Processing Logic"
+msgstr "Yapay Zeka ve İşleme Mantığı"
+
+msgid "AI Detection {status}"
+msgstr "Yapay Zeka Tespiti {status}"
+
+msgid "AI Error"
+msgstr "Yapay Zeka Hatası"
+
+msgid "AI unavailable. Please check the dialog."
+msgstr "Yapay zeka kullanılamıyor. Lütfen iletişim kutusunu kontrol edin."
+
+msgid "API Error"
+msgstr "API Hatası"
+
+msgid "About Developer"
+msgstr "Geliştirici Hakkında"
+
+msgid "About TypeTalk AI"
+msgstr "TypeTalk AI Hakkında"
+
+msgid "Activates Command Layer"
+msgstr "Komut Katmanını Etkinleştirir"
+
+msgid "Add / Update"
+msgstr "Ekle / Güncelle"
+
+msgid "Add Emojis"
+msgstr "Emoji Ekle"
+
+msgid ""
+"Add commands to replace spoken words with custom text.\n"
+"Example: 'my mail' -> 'user@example.com'\n"
+"(Inputs are auto-trimmed)"
+msgstr ""
+"Söylenen kelimeleri özel metinle değiştirmek için komutlar ekleyin.\n"
+"Örnek: 'mail adresim' -> 'kullanici@ornek.com'\n"
+"(Girdiler otomatik olarak kırpılır)"
+
+msgid "Auto copy result to clipboard"
+msgstr "Sonucu otomatik olarak panoya kopyala"
+
+msgid "Change AI Model"
+msgstr "Yapay Zeka Modelini Değiştir"
+
+msgid "Change Input Language"
+msgstr "Giriş Dilini Değiştir"
+
+msgid "Change Translation Language"
+msgstr "Çeviri Dilini Değiştir"
+
+msgid "Change Writing Style"
+msgstr "Yazım Stilini Değiştir"
+
+msgid "Check Current Settings"
+msgstr "Geçerli Ayarları Kontrol Et"
+
+msgid "Clear Fields"
+msgstr "Alanları Temizle"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Command unavailable. Press H for Help."
+msgstr "Komut kullanılamıyor. Yardım için H tuşuna basın."
+
+msgid "Connecting to server..."
+msgstr "Sunucuya bağlanılıyor..."
+
+msgid "Context set"
+msgstr "Bağlam ayarlandı"
+
+msgid "Critical Update"
+msgstr "Kritik Güncelleme"
+
+msgid "Custom API Configuration"
+msgstr "Özel API Yapılandırması"
+
+msgid "Custom API..."
+msgstr "Özel API..."
+
+msgid "Custom Dictionary"
+msgstr "Özel Sözlük"
+
+msgid "Custom Dictionary Manager"
+msgstr "Özel Sözlük Yöneticisi"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Downloading Update"
+msgstr "Güncelleme İndiriliyor"
+
+msgid "Downloading: {percent}%"
+msgstr "İndiriliyor: %{percent}"
+
+msgid "Emoji {status}"
+msgstr "Emoji {status}"
+
+msgid "Empty response"
+msgstr "Boş yanıt"
+
+msgid "Enable AI Detection"
+msgstr "Yapay Zeka Tespitini Etkinleştir"
+
+msgid "Enable Custom Dictionary & Punctuation"
+msgstr "Özel Sözlük ve Noktalamayı Etkinleştir"
+
+msgid "Enable sound feedback"
+msgstr "Sesli geri bildirimi etkinleştir"
+
+msgid "Generate Smart Reply from Hint"
+msgstr "İpucundan Akıllı Yanıt Oluştur"
+
+msgid "Generating Reply..."
+msgstr "Yanıt Oluşturuluyor..."
+
+msgid ""
+"HOW TO USE TYPETALK AI:\n"
+"\n"
+"1. First, Activate Command Mode by pressing:\n"
+"   NVDA + Shift + Space\n"
+"\n"
+"2. Then, press one of the following keys:\n"
+"\n"
+"   S  : Toggle Dictation\n"
+"   R  : Smart Text Refiner\n"
+"   C  : Set Context (For Smart Reply)\n"
+"   G  : Generate Smart Reply\n"
+"   A  : Toggle AI Processing\n"
+"   T  : Toggle Translation\n"
+"   E  : Toggle Emoji Support\n"
+"   I  : Change Input Language\n"
+"   L  : Change Translation Target Language\n"
+"   M  : Change AI Model\n"
+"   W  : Change Writing Style\n"
+"   Q  : Check Status (Settings)\n"
+"   B  : Recover Last Text (Backup)\n"
+"   D  : About Developer\n"
+"   H  : Show this Help Menu\n"
+msgstr ""
+"TYPETALK AI NASIL KULLANILIR:\n"
+"\n"
+"1. İlk olarak, şu kısayola basarak Komut Modunu etkinleştirin:\n"
+"   NVDA + Shift + Boşluk\n"
+"\n"
+"2. Ardından aşağıdaki tuşlardan birine basın:\n"
+"\n"
+"   S  : Dikteyi Aç/Kapat\n"
+"   R  : Akıllı Metin İyileştirici\n"
+"   C  : Bağlam Ayarla (Akıllı Yanıt için)\n"
+"   G  : Akıllı Yanıt Oluştur\n"
+"   A  : Yapay Zeka İşlemeyi Aç/Kapat\n"
+"   T  : Çeviriyi Aç/Kapat\n"
+"   E  : Emoji Desteğini Aç/Kapat\n"
+"   I  : Giriş Dilini Değiştir\n"
+"   L  : Hedef Çeviri Dilini Değiştir\n"
+"   M  : Yapay Zeka Modelini Değiştir\n"
+"   W  : Yazım Stilini Değiştir\n"
+"   Q  : Durumu Kontrol Et (Ayarlar)\n"
+"   B  : Son Metni Kurtar (Yedek)\n"
+"   D  : Geliştirici Hakkında\n"
+"   H  : Bu Yardım Menüsünü Göster\n"
+
+msgid "Input Language:"
+msgstr "Giriş Dili:"
+
+msgid "Input: {name}"
+msgstr "Giriş: {name}"
+
+msgid "Lang: {lang}, AI: {ai}, Style: {style}, Trans: {trans}"
+msgstr "Dil: {lang}, YZ: {ai}, Stil: {style}, Çeviri: {trans}"
+
+msgid "Later (Locked)"
+msgstr "Daha Sonra (Kilitli)"
+
+msgid "Library missing"
+msgstr "Kütüphane eksik"
+
+msgid "Listening ({lang})..."
+msgstr "Dinleniyor ({lang})..."
+
+msgid "Manage Dictionary"
+msgstr "Sözlüğü Yönet"
+
+msgid "Mic Error"
+msgstr "Mikrofon Hatası"
+
+msgid "Model: {name}"
+msgstr "Model: {name}"
+
+msgid "Network Error"
+msgstr "Ağ Hatası"
+
+msgid "No context found"
+msgstr "Bağlam bulunamadı"
+
+msgid "No details."
+msgstr "Ayrıntı yok."
+
+msgid "No speech detected"
+msgstr "Konuşma algılanmadı"
+
+msgid "No text found"
+msgstr "Metin bulunamadı"
+
+msgid "No text to recover"
+msgstr "Kurtarılacak metin yok"
+
+msgid "Powered by Google Speech Services & AI • Developed by Md Hridoy Sheikh"
+msgstr ""
+"Google Ses Hizmetleri ve YZ ile desteklenmektedir • Md Hridoy Sheikh "
+"tarafından geliştirildi"
+
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+msgid "Recover Last Text"
+msgstr "Son Metni Kurtar"
+
+msgid "Recovered"
+msgstr "Kurtarıldı"
+
+msgid "Refine or Translate Selected Text"
+msgstr "Seçili Metni İyileştir veya Çevir"
+
+msgid "Refining..."
+msgstr "İyileştiriliyor..."
+
+msgid "Replacement Text"
+msgstr "Yeni Metin"
+
+msgid "Replacement:"
+msgstr "Yeni Metin:"
+
+msgid "Select AI Model:"
+msgstr "Yapay Zeka Modeli Seçin:"
+
+msgid "Select Input Language:"
+msgstr "Giriş Dilini Seçin:"
+
+msgid "Select Translation Target:"
+msgstr "Hedef Çeviri Dilini Seçin:"
+
+msgid "Select Writing Style:"
+msgstr "Yazım Stilini Seçin:"
+
+msgid "Service currently unavailable. Please check the dialog."
+msgstr "Hizmet şu anda kullanılamıyor. Lütfen iletişim kutusunu kontrol edin."
+
+msgid "Service unavailable. Please check the dialog."
+msgstr "Hizmet kullanılamıyor. Lütfen iletişim kutusunu kontrol edin."
+
+msgid "Set Context for Smart Reply"
+msgstr "Akıllı Yanıt için Bağlam Ayarla"
+
+msgid "Set context first (Press C)"
+msgstr "Önce bağlamı ayarlayın (C'ye basın)"
+
+msgid "Show Developer Info"
+msgstr "Geliştirici Bilgisini Göster"
+
+msgid "Show Help Menu"
+msgstr "Yardım Menüsünü Göster"
+
+msgid "Style: {style}"
+msgstr "Stil: {style}"
+
+msgid "System Error"
+msgstr "Sistem Hatası"
+
+msgid "Target: {name}"
+msgstr "Hedef: {name}"
+
+msgid "Toggle AI Processing"
+msgstr "Yapay Zeka İşlemeyi Aç/Kapat"
+
+msgid "Toggle Emoji"
+msgstr "Emojiyi Aç/Kapat"
+
+msgid "Toggle Translation"
+msgstr "Çeviriyi Aç/Kapat"
+
+msgid "Toggle Voice Typing"
+msgstr "Sesle Yazmayı Aç/Kapat"
+
+msgid "Translate to:"
+msgstr "Şu dile çevir:"
+
+msgid "Translation {status}"
+msgstr "Çeviri {status}"
+
+msgid "TypeTalk AI Help"
+msgstr "TypeTalk AI Yardım"
+
+msgid ""
+"TypeTalk AI is an intelligent, real-time voice typing assistant built specifically for NVDA users. It goes far beyond basic dictation by leveraging advanced artificial intelligence to convert speech into clear, accurate, and well-structured text instantly.\n"
+"\n"
+"Developer:\n"
+"Md Hridoy Sheikh\n"
+"Dhaka, Bangladesh\n"
+"\n"
+"Mission:\n"
+"To utilize programming and technology to improve the quality of life for visually impaired individuals."
+msgstr ""
+"TypeTalk AI, NVDA kullanıcıları için özel olarak tasarlanmış akıllı, gerçek zamanlı bir sesle yazma asistanıdır. Konuşmayı anında net, doğru ve iyi yapılandırılmış bir metne dönüştürmek için gelişmiş yapay zekadan yararlanarak temel diktenin çok ötesine geçer.\n"
+"\n"
+"Geliştirici:\n"
+"Md Hridoy Sheikh\n"
+"Dhaka, Bangladeş\n"
+"\n"
+"Misyon:\n"
+"Görme engelli bireylerin yaşam kalitesini artırmak için programlama ve teknolojiyi kullanmak."
+
+msgid "Typed & Copied: {text}"
+msgstr "Yazıldı ve Kopyalandı: {text}"
+
+msgid "Typed (Direct): {text}"
+msgstr "Yazıldı (Doğrudan): {text}"
+
+msgid "Typed: {text}"
+msgstr "Yazıldı: {text}"
+
+msgid "Update Now"
+msgstr "Şimdi Güncelle"
+
+msgid "Update Required ({version})"
+msgstr "Güncelleme Gerekli ({version})"
+
+msgid "Update Required! Please update to continue."
+msgstr "Güncelleme Gerekli! Devam etmek için lütfen güncelleyin."
+
+msgid "Voice Command"
+msgstr "Sesli Komut"
+
+msgid "Voice Command:"
+msgstr "Sesli Komut:"
+
+msgid "Voice Input Settings"
+msgstr "Ses Girişi Ayarları"
+
+msgid "Writing Style / Tone:"
+msgstr "Yazım Stili / Ton:"
